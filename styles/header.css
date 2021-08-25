@@ -1,0 +1,157 @@
+body{
+    overflow-x: hidden;
+    display: flex;
+    flex-direction: column;
+}
+@media(max-width: 1024px){
+  .body{
+    overflow-x: hidden;
+  }
+}
+.slideandabout{
+    display: flex;
+    justify-content: space-between;
+    max-width: 1920px;
+    width: 100%;
+    height: auto;
+    align-items: center;
+    padding: 5%;
+    
+}
+.about_me{
+    box-sizing: border-box;
+    padding-left: 3%;
+    max-width: 500px;
+    width: 100%;
+    height: auto;
+}
+.about_me h2 {
+    padding: 4.5%;
+    font-size: 49px;
+    font-family: 'Glacial Indifference';
+
+}
+.about_me  h1 {
+    padding: 2%;
+    padding-left: 5.5%;
+    font-size: 65px;
+    font-family: 'Glacial Indifference';
+
+}
+.about_me  h3 {
+  padding-left: 5.5%;
+  font-size: 24px;
+  font-family: 'Glacial Indifference';
+
+}
+.icons_line{
+    padding-top: 8%;
+    display: flex;
+    box-sizing: border-box;
+    padding-left: 1.5%;
+    justify-content: space-around;
+}
+.icons_line > a > img{
+  max-width: 24px;
+  max-height: 28px;
+  width: 100%;
+  height: 100%;
+  transition: transform 150ms;
+}
+.icons_line > a > img:hover{
+  cursor: pointer;
+  transform: translateY(-10px);
+}
+.bar_line{
+  max-width: 250px;
+  width: 100%;
+  height: auto;
+  margin-left: 70%;
+  margin-bottom: 3%;
+}
+
+@media(max-width: 991px){
+	.bar_line{
+    max-width: 125px;
+    width: 100%;
+    height: auto;
+    margin-left: 35%;
+    margin-bottom: 1%;
+  }
+}
+.box{
+    background-color: #DDDDDD;
+    max-height: 972px;
+    max-width: 1920px;
+    height: 100%;
+    width: 100%;
+}
+.box > span > img{
+        max-height: 73px;
+        height: 100%;
+        max-width: 111px;
+        width: 100%;
+    }
+
+.box span {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+    padding: 3%;
+}
+.box span i {
+    max-width: 177px;
+    width: 100%;
+    max-height: 170px;
+    height: 100%;
+}
+.box span i img {
+    max-width: 177px;
+    width: 100%;
+    max-height: 170px;
+    height: 100%;
+}
+.about_me img{
+  max-width: 360px;
+  width: 100%;
+  max-height: 55px;
+  height: 100%;
+}
+
+
+
+@media screen and (min-width: 323px) {
+    .about_me h2  {
+      font-size: 40px;
+    }
+  }
+  
+@media screen and (max-width: 900px) {
+    .about_me h2  {
+      font-size: 10px;
+    }
+  }
+
+  @media screen and (min-width: 323px) {
+    .about_me h1  {
+      font-size: 60px;
+    }
+  }
+  
+@media screen and (max-width: 900px) {
+    .about_me h1  {
+      font-size: 30px;
+    }
+  }
+  @media screen and (min-width: 323px) {
+    .about_me h3  {
+      font-size: 20px;
+    }
+  }
+  
+@media screen and (max-width: 900px) {
+    .about_me h3  {
+      font-size: 10px;
+    }
+  }

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="361" height="58" viewBox="0 0 361 58">
+  <g id="Bar" transform="translate(-1462 -855)">
+    <text id="_100_Satisfied_Clients" data-name="100% Satisfied Clients" transform="translate(1462 881)" fill="#e93656" font-size="24" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">100%</tspan><tspan y="0" fill="#fff"> </tspan><tspan y="0" fill="#212121">Satisfied Clients</tspan></text>
+    <rect id="bg" width="360" height="6" rx="3" transform="translate(1463 907)" fill="#ebebeb" opacity="0.2"/>
+    <path id="progress" d="M1466,907h337v6H1466a3,3,0,1,1,0-6Z" fill="#e93656"/>
+  </g>
+</svg>

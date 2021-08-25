@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="90" height="90" viewBox="0 0 90 90">
+  <g id="Group_2" data-name="Group 2" transform="translate(-837 -1814)">
+    <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(837 1814)" fill="rgba(0,0,0,0)" stroke="#fff" stroke-width="2" stroke-dasharray="8 4">
+      <circle cx="45" cy="45" r="45" stroke="none"/>
+      <circle cx="45" cy="45" r="44" fill="none"/>
+    </g>
+    <g id="Group_1" data-name="Group 1" transform="translate(-7 -60.497)">
+      <path id="Op_component_1" data-name="Op component 1" d="M885.012,1888A12.222,12.222,0,0,0,873,1900.387a12.917,12.917,0,0,0,.234,2.456c0,.054.026.108.026.188,1.323,6.114,10.638,15.3,11.027,15.673a.983.983,0,0,0,.726.294,1.1,1.1,0,0,0,.727-.294c.389-.4,9.651-9.559,10.975-15.54,0-.054.026-.107.026-.16a12.607,12.607,0,0,0,.259-2.617A12.184,12.184,0,0,0,885.012,1888Zm9.652,14.606v.08c-.986,4.432-7.446,11.428-9.652,13.7-2.205-2.269-8.692-9.265-9.677-13.8a.239.239,0,0,0-.026-.132,11.378,11.378,0,0,1-.208-2.084,9.9,9.9,0,1,1,19.8,0A10.608,10.608,0,0,1,894.664,1902.6Z" transform="translate(5 16)" fill="#fff"/>
+      <path id="Op_component_2" data-name="Op component 2" d="M885.012,1894.966a4.141,4.141,0,1,0,4.021,4.14A4.086,4.086,0,0,0,885.012,1894.966Zm0,6.114a1.976,1.976,0,1,1,1.92-1.975A1.943,1.943,0,0,1,885.012,1901.08Z" transform="translate(5 16)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
